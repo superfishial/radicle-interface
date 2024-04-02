@@ -3,23 +3,23 @@
     "fallbackPublicExplorer": "https://app.radicle.xyz/nodes/$host/$rid$path",
     "defaultHttpdPort": 443,
     "defaultLocalHttpdPort": 8080,
-    "defaultHttpdHostname": "seed.radicle.garden",
+    "defaultHttpdHostname": "seed.git.super.fish",
     "defaultHttpdScheme": "https",
     "defaultNodePort": 8776,
     "pinned": [
       {
         "baseUrl": {
-          "hostname": "seed.radicle.xyz",
+          "hostname": "seed.git.super.fish",
           "port": 443,
           "scheme": "https"
         }
       }
     ]
   },
-  "supportWebsite": "https://radicle.zulipchat.com",
+  "supportWebsite": "https://github.com/superfishial",
   "reactions": ["👍", "👎", "😄", "🎉", "🙁", "🚀", "👀"],
   "fallbackPreferredSeed": {
-    "hostname": "seed.radicle.garden",
+    "hostname": "seed.git.super.fish",
     "port": 443,
     "scheme": "https"
   }
